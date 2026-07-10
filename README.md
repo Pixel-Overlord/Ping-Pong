@@ -1,0 +1,6 @@
+- Player vs AI
+- Responsive paddle controls
+- Score system
+- Ball collision physics
+- Game restart
+- Unity UI
